@@ -1,4 +1,4 @@
-import './bootstrap';
+import './js/bootstrap';
 import Vue from 'vue';
 import Vuetify from 'vuetify;'
 
