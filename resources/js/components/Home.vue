@@ -1,3 +1,3 @@
 <template>
-    Home Comp
+    <div>Home Comp</div>
 </template>

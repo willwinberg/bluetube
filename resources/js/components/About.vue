@@ -1,3 +1,3 @@
 <template>
-    About Comp
+    <div>About Comp</div>
 </template>
