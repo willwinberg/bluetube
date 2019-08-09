@@ -1,0 +1,3 @@
+<template>
+    Home Comp
+</template>
